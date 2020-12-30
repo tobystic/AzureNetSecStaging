@@ -5,4 +5,4 @@ The following quickstart templates deploy Azure Firewall with different resource
 | Template	| Description	|
 | :------------------| :-------------------------------------| 
 |||
-| [Create a Firewall with FirewallPolicy and IpGroups](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-firewallpolicy-ipgroups) [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-firewallpolicy-ipgroups)| This template creates an Azure Firewall with Firewall Policy referencing Network Rules with IPGroups. Also, includes a Linux Jumpbox VM setup |
+| [Create a Firewall with FirewallPolicy and IpGroups](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-firewallpolicy-ipgroups) &nbsp; [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-firewallpolicy-ipgroups)| This template creates an Azure Firewall with Firewall Policy referencing Network Rules with IPGroups. Also, includes a Linux Jumpbox VM setup |
