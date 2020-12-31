@@ -2,8 +2,9 @@
 
 The following quickstart templates deploy Azure Firewall with different resources which you can configure and customize for your environment.  
 
-| Template &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description	|
-| :---------------------------------------------------------------------| :---------------------------------------------------------| 
+| Template &nbsp; &nbsp; &nbsp; &nbsp; | Description	|
+| :-------------------------------------------------------------------| :---------------------------------------------------------| 
+|||
 | [Create a Firewall with FirewallPolicy and IPgroups](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-firewallpolicy-ipgroups) [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-azurefirewall-create-with-firewallpolicy-ipgroups%2Fazuredeploy.json) | This template creates an Azure Firewall with Firewall Policy referencing Network Rules with IPGroups. Also, includes a Linux Jumpbox VM setup. |
 | [Create an Azure Firewall with IPgroups](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-ipgroups-and-linux-jumpbox) [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-azurefirewall-create-with-ipgroups-and-linux-jumpbox%2Fazuredeploy.json) | This template creates an Azure Firewall with Application and Network Rules referring to IP Groups. Also, includes a Linux Jumpbox vm setup. |
 | [Create an Azure Firewall with Availability Zones](https://github.com/Azure/azure-quickstart-templates/tree/master/101-azurefirewall-create-with-zones) [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-azurefirewall-create-with-zones%2Fazuredeploy.json) | This template creates an Azure Firewall with Availability Zones and any number of Public IPs in a virtual network and sets up 1 sample application rule and 1 sample network rule. |
