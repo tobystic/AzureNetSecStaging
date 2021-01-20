@@ -7,7 +7,7 @@
 </p>
 
 &nbsp;  
-
+&nbsp;  
 
 Welcome to the Azure Network Security community repository. This repo is designed to help:
 - Deploy Azure NetSec resources programmatically using scripts and templates.
