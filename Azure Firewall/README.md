@@ -1,7 +1,7 @@
 
 # Azure Firewall 
 
-There are different Azure Firewall SKU offerings for Azure Network security. Resources for deployment, monitoring, alerts, policies may be found in the different subdirectories provided in this repository. 
+Azure Firewall is one of the Azure Network security products, available in different SKU and may be managed with Firewall manager. Resources for deployment, monitoring, alerts, policies may be found in the different subdirectories provided in this repository. 
 
 
 ## Contributing
